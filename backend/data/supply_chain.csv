@@ -1,0 +1,6 @@
+shipment_id,material,supplier,origin,destination,status,progress,risk,delay_hours,value,lat,lng
+SHP-001,Material-X,Supplier S-14,Kolkata,Bhubaneswar,At Risk,62,78,6.2,480000,21.5500,86.7500
+SHP-002,Steel,Supplier S-08,Durgapur,Kolkata,On Time,84,18,0.4,320000,22.7200,87.1500
+SHP-003,Components,Supplier S-21,Jamshedpur,Kolkata,Delayed,47,64,4.8,265000,22.2500,86.2000
+SHP-004,Packaging,Supplier S-03,Howrah,Kolkata,On Time,91,12,0.0,95000,22.5800,88.2500
+SHP-005,Chemicals,Supplier S-11,Haldia,Kolkata,At Risk,55,71,3.5,210000,21.9800,88.0600
