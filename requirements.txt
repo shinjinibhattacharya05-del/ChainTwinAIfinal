@@ -1,0 +1,12 @@
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+pillow
+anthropic
+# Frontend
+streamlit>=1.50
+plotly>=5.24
+pandas
+requests
